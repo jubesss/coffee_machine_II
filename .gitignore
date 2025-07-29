@@ -1,0 +1,26 @@
+
+*.iml
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+nbproject/private/
+
+
+*.jar
+*.war
+*.ear
+*.class
+target/ 
+bin/    
+
+Thumbs.db # Windows
+
+
+*.log
+logs/
+
+
+*~
+*.bak
