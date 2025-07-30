@@ -1,12 +1,12 @@
 
 *.iml
-.class
-.form
-.idea/
-.vscode/
-.project
-.classpath
-.settings/
+*.class
+*.form
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
 nbproject/private/
 
 
