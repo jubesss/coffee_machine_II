@@ -1,5 +1,7 @@
 
 *.iml
+.class
+.form
 .idea/
 .vscode/
 .project
